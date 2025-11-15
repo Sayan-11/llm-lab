@@ -1,0 +1,16 @@
+[project]
+name = "llm-lab"
+version = "0.1.0"
+description = "A lightweight LLM experiment tracker and evaluator."
+authors = [{ name = "Sayan Sahay"}]
+requires-python = ">=3.9"
+
+dependencies = [
+    "openai",
+    "jsonlines",
+    "pandas",
+    "matplotlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,3 @@
+{"question": "What is 2+2?", "expected_output": "4"}
+{"question": "Capital of France?", "expected_output": "Paris"}
+{"question": "Color of the sky on a clear day?", "expected_output": "blue"}
