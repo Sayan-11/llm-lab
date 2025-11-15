@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# DB / temp
+llm_lab.db
+
+# OS-specific
+.DS_Store
